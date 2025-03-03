@@ -334,3 +334,13 @@
       width: 10ch;
     }
   }
+.color-picker {
+    appearance: none;
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    background: none;
+}
